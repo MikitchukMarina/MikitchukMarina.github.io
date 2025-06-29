@@ -1,14 +1,21 @@
 # Degree
 - degree: PhD Student in Mathematical Economics
   uni: Moscow State University
-  year: 2004 &mdash; Present
+  year: 2022 &mdash; Present
   awards:
     - award: Moscow State University Scholarship for Excellence in Research (in Economics)
     - award: Vega Institute Foundation Scholarship (in Applied Mathematics)
   #summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: M.Sc. (hons.) in Mathematical Economics
+  uni: Moscow State University
+  year: 2020 &mdash; 2022
+  awards:
+    - award: Golden Badge of Best Graduate
+    - award: Vega Institute Foundation Scholarship (in Applied Mathematics)
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+  - degree: B.Sc. (hons.) in History
+  uni: Moscow State University
+  year: 2015 &mdash; 2019
+
