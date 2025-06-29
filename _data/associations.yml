@@ -1,24 +1,14 @@
 # Selected conference and research seminar talks
 - organization: Delhi Winter School, Econometric Society and Delhi School of Economics
-  #role: Speaker
   year: 2024
-  # url: https://example.com/delhi-winter-school
-  #summary: Presented at the Delhi Winter School organized by the Econometric Society and Delhi School of Economics.
+
 
 - organization: Fall into ML, Steklov Mathematical Centre and Higher School of Economics
-  #role: Speaker
   year: 2023
-  # url: https://example.com/fall-into-ml
-  #summary: Delivered talk at the Fall into ML event hosted by Steklov Mathematical Centre and HSE.
 
 - organization: The Mathematical Economics Seminar, conducted by prof. V. Polterovich
-  #role: Speaker
   year: 2023, 2024
-  # url: https://example.com/mathematical-economics-seminar
- # summary: Presented research findings at the Mathematical Economics Seminar led by Prof. V. Polterovich.
 
 - organization: The Probability Theory Seminar, conducted by prof. A. Shiryaev
-  #role: Speaker
   year: 2023
-  # url: https://example.com/probability-theory-seminar
-  #summary: Delivered a seminar talk at the Probability Theory Seminar under Prof. A. Shiryaev.
+
