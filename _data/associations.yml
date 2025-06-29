@@ -1,12 +1,20 @@
 - organization: Delhi Winter School, Econometric Society and Delhi School of Economics
-  year: 2024
-  
+  year:
+    - 2024
+  role: Speaker
+
 - organization: Fall into ML, Steklov Mathematical Centre and Higher School of Economics
-  year: 2023
+  year:
+    - 2023
+  role: Speaker
 
 - organization: The Mathematical Economics Seminar, conducted by prof. V. Polterovich
-  year: 2023, 2024
+  year:
+    - 2023
+    - 2024
+  role: Speaker
 
 - organization: The Probability Theory Seminar, conducted by prof. A. Shiryaev
-  year: 2023
-
+  year:
+    - 2023
+  role: Speaker
