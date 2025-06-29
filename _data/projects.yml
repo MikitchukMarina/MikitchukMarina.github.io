@@ -1,16 +1,28 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
-
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# International Research School Participation
+- project: Summer School Dynamic Structural Econometrics
+  role: Participant
+  duration: 2025
+  organization: Econometric Society and UCL
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Attended the Summer School on Dynamic Structural Econometrics organized by the Econometric Society and UCL.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Africa Summer School
+  role: Participant
+  duration: 2025
+  organization: Econometric Society and ENSEA
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Participated in the Africa Summer School hosted by the Econometric Society and ENSEA.
+
+- project: Summer School (Topology)
+  role: Participant
+  duration: 2023
+  organization: Simons Foundation and Higher School of Economics
+  # url: "#"
+  description: Attended the Summer School on Topology organized by the Simons Foundation and Higher School of Economics.
+
+- project: Summer School (Financial Mathematics)
+  role: Participant
+  duration: 2022 — 2023
+  organization: Vega Institute Foundation
+  # url: "#"
+  description: Participated in the Summer School focused on Financial Mathematics organized by the Vega Institute Foundation.
